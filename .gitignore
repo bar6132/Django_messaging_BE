@@ -1,0 +1,8 @@
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore SQLite database file
+db.sqlite3
